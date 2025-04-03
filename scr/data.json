@@ -1,0 +1,38 @@
+{
+  "pendingLinks": {},
+  "linkedAccounts": {
+    "7563680941": {
+      "username": "FolexiEzz3223",
+      "password": "123432"
+    },
+    "5213363119": {
+      "username": "Goldenskill13",
+      "password": "13062013titi"
+    }
+  },
+  "pendingUnlinks": {},
+  "pendingPasswordChanges": {},
+  "uniqueUsers": [
+    7563680941,
+    7865052367,
+    6573154545,
+    5213363119,
+    1497287834,
+    5279623306
+  ],
+  "stats": {
+    "uniqueUsers": 13604,
+    "linkedAccounts": 12496,
+    "unlinkedAccounts": 131
+  },
+  "serverNews": "На данный момент новостей нет. Следи за обновлениями!",
+  "serverStatus": {
+    "online": true,
+    "players": 1446,
+    "maxPlayers": 7500,
+    "version": "1.16.5 - 1.21"
+  },
+  "uniqueUsersList": [
+    7563680941
+  ]
+}

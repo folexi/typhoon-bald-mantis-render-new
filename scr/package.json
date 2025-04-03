@@ -1,0 +1,16 @@
+{
+  "name": "typhoon-bald-mantis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "0.28.1"
+  }
+}
